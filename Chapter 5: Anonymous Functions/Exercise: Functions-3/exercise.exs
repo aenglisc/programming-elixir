@@ -17,4 +17,5 @@ go_fizzbuzz = fn n -> fizzbuzz.(rem(n, 3), rem(n, 5), n) end
 
 for x <- 10..16, do: go_fizzbuzz.(x)
 
-# Excerpt From: Dave Thomas. “Programming Elixir ≥ 1.6 (for Roman Pushkov).” iBooks. 
+# Excerpt From: Dave Thomas. “Programming Elixir ≥ 1.6 (for Roman Pushkov).” iBooks.
+

@@ -11,4 +11,5 @@
   pair_tuple_to_list = fn({x, y}) -> [x, y]
   pair_tuple_to_list.( { 1234, 5678 } )
 
-# Excerpt From: Dave Thomas. “Programming Elixir ≥ 1.6 (for Roman Pushkov).” iBooks. 
+# Excerpt From: Dave Thomas. “Programming Elixir ≥ 1.6 (for Roman Pushkov).” iBooks.
+
